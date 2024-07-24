@@ -1,6 +1,3 @@
-
-myscale/myscaledb:1.6
-opensearchproject/opensearch-dashboards:latest
 opensearch
 milvus-standalone
 milvus-minio
